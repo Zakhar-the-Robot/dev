@@ -1,0 +1,16 @@
+# Standard .flake8 file - Version 1.1
+# Repository: https://github.com/Zakhar-the-Robot/dev
+# Copyright (c) 2022 Andrei Gramakov. All rights reserved.
+
+[flake8]
+max-line-length = 88
+max-complexity = 10
+ignore = F405
+per-file-ignores =
+    */__init__.py:F401,F403
+exclude =
+    .git
+    __pycache__
+    docs/source/conf.py
+    build
+    dist

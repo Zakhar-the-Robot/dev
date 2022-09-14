@@ -1,0 +1,7 @@
+# Standard pyproject.toml file - Version 1.1
+# Repository: https://github.com/Zakhar-the-Robot/dev
+# Copyright (c) 2022 Andrei Gramakov. All rights reserved.
+
+[build-system]
+build-backend = "setuptools.build_meta"
+requires = [ "setuptools" ]

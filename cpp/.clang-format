@@ -1,4 +1,9 @@
-# https://clang.llvm.org/docs/ClangFormatStyleOptions.html#
+# Standard .clang-format file - Version 1.0
+# Repository: https://github.com/Zakhar-the-Robot/dev
+# Copyright (c) 2022 Andrei Gramakov. All rights reserved.
+#
+# Clang Format options: https://clang.llvm.org/docs/ClangFormatStyleOptions.html#
+
 BasedOnStyle: LLVM
 AccessModifierOffset: -4
 AlignAfterOpenBracket: Align

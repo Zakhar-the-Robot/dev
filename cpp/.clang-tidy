@@ -1,4 +1,9 @@
-# https://clang.llvm.org/extra/clang-tidy/checks/list.html
+# Standard .clang-tidy file - Version 1.0
+# Repository: https://github.com/Zakhar-the-Robot/dev
+# Copyright (c) 2022 Andrei Gramakov. All rights reserved.
+#
+# Check list: https://clang.llvm.org/extra/clang-tidy/checks/list.html
+
 Checks: '-*,readability-identifier-naming'
 CheckOptions:
   - { key: readability-identifier-naming.NamespaceCase,          value: lower_case }

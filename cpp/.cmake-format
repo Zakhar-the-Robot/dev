@@ -1,4 +1,9 @@
-# https://pypi.org/project/cmake-format/0.2.0/
+# Standard .cmake-format file - Version 1.0
+# Repository: https://github.com/Zakhar-the-Robot/dev
+# Copyright (c) 2022 Andrei Gramakov. All rights reserved.
+#
+# Formatter: https://pypi.org/project/cmake-format/0.2.0/
+
 autosort: True
 dangle_parens: True
 line_ending: 'unix'
